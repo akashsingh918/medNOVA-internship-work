@@ -1,2 +1,2 @@
 # medNOVA-internship-work
-datasets or files related to medNOVA 
+TASK 1- 16S rRNA Saliva metadata clinical datasets
